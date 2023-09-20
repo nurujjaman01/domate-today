@@ -1,0 +1,85 @@
+*{
+    font-family: 'Open Sans', sans-serif;
+    margin:0;
+}
+.header-portfolio{
+    background-image:url(../donate-today-main/images/donation6.jpg) ;
+    height: 70vb;
+    background-repeat: no-repeat;
+    width: 100%;
+    background-size: cover;
+}
+.header-continar{
+    text-align: center;
+    padding: 200px 560px;
+   }
+.header-title{
+    font-size: 30px;
+    font-weight: 800;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-bottom: 20px;
+    color:white;
+}
+.header-discription{
+    font-size: 15px;
+    color: rgb(169, 169, 169);
+    margin-bottom: 30px;
+}
+.header-button{
+    background-image:linear-gradient(orange,tomato) ;
+    padding: 10px 30px;
+    border-radius: 5px;
+    border:none ;
+    color: white;
+}
+/* main style */
+.our-donete{
+    margin-top: 130px;
+}
+.our-continar{
+    text-align: center;
+    padding: 0px 400px;
+}
+.our-title{
+    font-size: 30px;
+    font-weight: 800;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-bottom: 20px ;
+
+}
+.our-decoration{
+    font-size: 16px;
+    color: rgba(169, 169, 169, 0.593);
+    margin-bottom: 30px;
+}
+.food{
+    display: flex;
+    padding:40px 100px ;
+    gap: 34px;
+
+    }
+.food-container{
+background-color:darkgray;
+padding: 100px 20px;
+box-shadow: 10px 10px 40px whitesmoke;
+border:none;}
+ .food-to{
+    background-color:rgba(202, 161, 161, 0.693);
+padding: 100px 20px;
+box-shadow: 10px 10px 40px whitesmoke;
+border:none;}
+.food-too{
+    background-color:antiquewhite;
+    padding: 100px 20px;
+    box-shadow: 10px 10px 40px whitesmoke;
+    border:none;
+
+
+}
+
+ 
+
+
+
+
+ 
