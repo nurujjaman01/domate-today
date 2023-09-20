@@ -180,8 +180,23 @@ background-image: linear-gradient(orange,tomato);
     padding: 10px 20px;
      border:none;
      margin-left: -10px;
+}
 
 
+footer{
+    text-align: center;
+    background-color: black;
+    padding: 40px 80px;
+}
+.footer-title{
+    font-size: 18px;
+    font-weight: 900;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: red;
+}
+.footer-type{
+    color: white;
+    font-size: 5px;
 }
 
 
