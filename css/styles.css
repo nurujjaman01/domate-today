@@ -2,6 +2,10 @@
     font-family: 'Open Sans', sans-serif;
     margin:0;
 }
+/* img {
+    width: 100%;
+    height: auto;} */
+
 .header-portfolio{
     background-image:url(../donate-today-main/images/donation6.jpg) ;
     height: 70vb;
@@ -73,13 +77,120 @@ border:none;}
     padding: 100px 20px;
     box-shadow: 10px 10px 40px whitesmoke;
     border:none;
+}
+/* Their lives style */
+.their-lives{
+    display: flex;
+    align-items:center ;
+    gap: 50px;
+    margin-top: 130px;
+    padding: 40px 100px;
+
+   
+    
+}
+.lives-title{
+    font-size: 30px;
+    font-weight: 800;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-bottom: 30px;
+}
+.lives-discription{
+    font-size: 16px;
+    color: darkgray;
+    margin-bottom: 20px;
+}
+.lives{
+    font-size: 16px;
+    color: darkgray;
+    margin-bottom: 30px;
+}
+
+.lives-button{
+    background-image: linear-gradient(orange,tomato);
+    padding: 10px 30px;
+    border: none;
+    border-radius: 5px;
+    color:rgb(0, 0, 0);
+    font-size: 16px;}
+/* They need style     */
+
+/* .need{
+    display: grid; 
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 2rem;
+    align-items: center; 
+    max-width: 1220px;
+    margin: 0 auto}
+       */
+.my-updates{
+    text-align: center;
+    padding:130px 300px ;
+
+       }
+.need-title{
+    font-size: 30px;
+    font-weight: 800;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-bottom: 30px;
+    
+}
+.need-to{
+    font-size: 16px;
+    color: darkgray;
+    margin-bottom: 20px;
+
+}
+.need-too{
+    font-size: 16px;
+    color: darkgray;
+    margin-bottom: 20px;
+}
+.need{
+    display: flex;
+    padding:40px 100px ;
+    gap:50px;
+    align-items:center ;
+    
+}
+.updates-title{
+    font-size:30px ;
+    font-weight: 800;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-bottom: 15px;
+}
+.updates-discription{
+    font-size: 16px;
+    color: rgba(169, 169, 169, 0.858);
+    margin-bottom: 50px;
+}
+.input{
+    background-color: darkgray;
+    padding: 10px 20px;
+    border:none
+}
+.contian{
+    background-color:antiquewhite ;
+    padding: 100px 200px;
+    
+}
+.subscribes{
+    
+background-image: linear-gradient(orange,tomato);
+    padding: 10px 20px;
+     border:none;
+     margin-left: -10px;
 
 
 }
 
- 
+
+
+
+   
 
 
 
 
- 
+
+
